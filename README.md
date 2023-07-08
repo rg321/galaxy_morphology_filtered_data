@@ -8,8 +8,3 @@ imageFolder_full : complete data with 28,790 images
 imageFolder_medium : complete data with around 500 images
 imageFolder_small : complete data with around 50 images
 
-use git-lfs to pull folder
-
-```
-git-lfs --all pull
-```
